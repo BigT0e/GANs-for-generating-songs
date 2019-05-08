@@ -3,4 +3,4 @@ This is part of a final project of cmu 95845. The intention is to generate songs
 
 The code should be run in Google Colab, block by block.  
 GAN_toy_homemade.ipynb takes 10 secs mp3 or wav files.  
-GAN_evaluation.ipynb takes 8 songs with same length.
+GAN_evaluation.ipynb takes songs with same length.
